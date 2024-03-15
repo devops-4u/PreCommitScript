@@ -1,4 +1,5 @@
 This is a testing file
 Now i am creating Pre Commit Script
-WFX Players
+WFX Player
+Testing going on...
 Lets rock!!!!!
